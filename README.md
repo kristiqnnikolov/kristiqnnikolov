@@ -14,10 +14,10 @@ Technical Skills 💡
 Soft Skills 🌟  
 ✅ **_Problem-Solving_**: A proactive problem solver with strong analytical skills and attention to detail.  
 ✅ **Dedicated Team Player**: Thriving in collaborative environments and enjoy working with team members.  
-✅ **Great Communicator**: With excellent communication skills, I can effectively convey ideas and collaborate with stakeholders at all levels.  
-✅ **Loyalty**: Committed to the team and the company's mission, I prioritize building strong, long-term relationships based on trust and mutual respect.  
-✅ **Reliability**: Known for my dependability, I consistently deliver high-quality work within deadlines and can be counted on to fulfill my responsibilities.  
-✅ **Precise Time Management**: With strong organizational skills, I excel at managing multiple tasks efficiently and meeting project deadlines with precision.  
+✅ **Great Communicator**: With excellent communication skills, I can effectively convey ideas with the team.  
+✅ **Loyalty**: Committed to the team and company, I prioritize building strong, relationships based on trust and mutual respect.  
+✅ **Reliability**: Known for my dependability, I consistently deliver high-quality work.  
+✅ **Precise Time Management**: With strong organizational skills, I excel at meeting project deadlines with precision.  
 
 What I'm Looking For 🎯  
 I'm eager to join a dynamic team where I can grow my skills, tackle exciting challenges, and make a meaningful impact. If you're looking for a dedicated and enthusiastic Junior Python Developer to join your team, I'd love to chat! 📞  
