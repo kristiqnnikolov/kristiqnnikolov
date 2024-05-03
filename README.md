@@ -9,8 +9,8 @@ About Me 😊
 
 Technical Skills 💡  
 ✅ Proficient in **_Python_** programming with hands-on experience in web development with Django.  
-✅ Familiar with front-end technologies like **_HTML_**, **_CSS_**, **_JavaScript_** to create engaging user interfaces.  
-Docker html5
+✅ Familiar with front-end technologies like **_HTML_**, **_CSS_**, **_JavaScript_** to create engaging user interfaces.
+
 Soft Skills 🌟  
 ✅ **_Problem-Solving_**: A proactive problem solver with strong analytical skills and attention to detail.  
 ✅ **Dedicated Team Player**: Thriving in collaborative environments and enjoy working with team members.  
