@@ -3,13 +3,13 @@
 I'm Chris, a Python Developer looking for job opportunities with Data Science ! 
 
 About Me 😊  
-✅ Passion for Data Science and 🐍  
+✅ Passion for Python and Data Science 🐍  
 ✅ Hunger for learning new technologies 🚀  
 ✅ Desire to grow in a fantastic team 🤝  
 
 Technical Skills 💡  
-✅ Proficient in **_Python_**, **__Django__** web framework, scraping tools like **__Scrapy__** 
-✅ Front-end technologies like **_HTML_**, **_CSS_** and **_JavaScript_**.
+✅ Proficient in **_Python_**, **__Django__** web framework, scraping tools like **__Scrapy__** .
+✅ Knowledge of front-end technologies like **_HTML_**, **_CSS_** and **_JavaScript_**.
 ✅ Solid **__DevOps__** and **__Git__** skills.
 
 Soft Skills 🌟  
