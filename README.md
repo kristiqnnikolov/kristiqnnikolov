@@ -1,6 +1,6 @@
 👋 Hello and welcome! 👋  
 
-I'm Chris, a Python Developer looking for job opportunities Data Science ! 
+I'm Chris, a Python Developer looking for job opportunities with Data Science ! 
 
 About Me 😊  
 ✅ Passion for Data Science and 🐍  
