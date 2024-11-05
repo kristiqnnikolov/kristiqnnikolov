@@ -3,6 +3,21 @@
 [![Gmail](https://img.shields.io/badge/kristiqn.nikolov0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kristiqn.nikolov0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiyan-nikolov-8b8413290/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kristiqnnikolov)
+### Gmail Links
+
+[![Email Me](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Reach%20Me%20on%20Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
+[![Contact](https://img.shields.io/badge/Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
+[![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
+[![Drop Me a Line](https://img.shields.io/badge/Drop%20Me%20a%20Line-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
 I'm Chris, a Python Developer looking for job opportunities with Data Science ! 
 
