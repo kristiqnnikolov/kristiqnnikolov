@@ -1,6 +1,6 @@
 👋 Hello and welcome! 👋  
 
-[![Gmail](https://img.shields.io/badge/kristiqn.nikolov0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kristiqn.nikolov0@gmail.com)
+[![Drop Me a Line](https://img.shields.io/badge/Drop%20Me%20a%20Line-D14836?style=flat&logo=gmail&logoColor=white)](kristiqn.nikolov0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kristiqnnikolov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiyan-nikolov-8b8413290/)
 
