@@ -19,8 +19,7 @@ Soft Skills 🌟
 ✅ **Reliability**: Known for my dependability, I consistently deliver high-quality work.  
 ✅ **Precise Time Management**: Strong organizational skills, meeting deadlines with precision.  
 
-What I'm Looking For 🎯  
-I'm eager to join a dynamic team where I can grow my skills, tackle exciting challenges, and make a meaningful impact.
-If you're looking for a dedicated and enthusiastic Python Developer to join your team, let's connect! 📞    
+![Followers](https://img.shields.io/github/followers/<your-username>?label=Followers&style=social)
 
-Feel free to reach out to me at kristiqn.nikolov@gmail.com or connect with me on LinkedIn. Hope to hear you soon !😊🤝
+LinkTree : https://linktr.ee/KristiqnNikolov
+Hope to hear you soon !😊🤝
