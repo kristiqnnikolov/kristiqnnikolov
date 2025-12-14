@@ -23,7 +23,6 @@ Soft Skills 🌟
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-444444?style=for-the-badge&logo=scrapy&logoColor=green)
 ![Selenium](https://img.shields.io/badge/Selenium-092E20?style=for-the-badge&logo=Selenium&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
