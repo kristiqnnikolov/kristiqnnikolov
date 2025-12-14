@@ -12,7 +12,7 @@ About Me 😊
 ✅ Desire to grow in a fantastic team
 
 Technical Skills 💡  
-✅ Proficient in **_Python_**, scraping tools like **__Scrapy__**
+✅ Proficient in **_Python_**, scraping tools like **__Scrapy__**, data manipulation with **__pandas__**
 ✅ Knowledge of front-end technologies like **_HTML_**, **_CSS_** and **_JavaScript_**
 
 Soft Skills 🌟  
